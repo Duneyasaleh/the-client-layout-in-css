@@ -4,3 +4,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 # Layout in CSS
 
 Een oefening in document layout met CSS.
+online link
+https://duneyasaleh.github.io/the-client-layout-in-css/
+
